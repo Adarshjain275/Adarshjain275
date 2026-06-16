@@ -1,66 +1,13 @@
-```markdown
-# Hey there, I'm Adarsh Jain 👋
-Electronics Engineering Undergraduate <br>
-Interested in Software Engineering, Machine Learning, and Optimization Algorithms.
+## Hey there, I'm Adarsh Jain
 
-<br>
+- Engineerig Undergrad with majors in Electronics @NSUT'28.
+- Interested in software engineering, machine learning, and .
 
-## About Me
-- Passionate about problem solving and building efficient software solutions.
-- Interested in machine learning, algorithms, and modern software development.
-- Continuously learning and exploring new technologies.
+### Skills
+**Languages**: C++, Python, Java, JavaScript, MATLAB  
+**Frameworks & Libraries**: React.js, Redux Toolkit, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib 
+**Tools**: Git, GitHub, Linux, VS Code, Jupyter Notebook  
+**Concepts**: Data Structures & Algorithms, OOP, Machine Learning, Deep Learning
 
-<br>
-
-## Skills
-
-### Languages
-- C++
-- Python
-- JavaScript
-- Bash
-- MATLAB
-
-### Frameworks & Libraries
-- React.js
-- Redux Toolkit
-- TensorFlow
-- Keras
-- Scikit-learn
-- NumPy
-- Pandas
-- SciPy
-
-### Tools
-- Git
-- GitHub
-- Linux
-- VS Code
-- Postman
-- Jupyter Notebook
-
-### Core Concepts
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Machine Learning
-- Deep Learning
-- Metaheuristic Optimization
-
-<br>
-
-## Currently Working On
-- Strengthening Data Structures & Algorithms for software engineering interviews.
-- Exploring Full-Stack Development and modern web technologies.
-- Learning Machine Learning fundamentals and optimization techniques.
-- Building personal projects to gain practical experience.
-
-<br>
-
-## Contact Me
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
-
-<br>
-
-⭐ Always open to learning, collaborating, and building impactful projects.
-```
+### Contact me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-jain-ba2801291/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarsh.jain.ug23@nsut.ac.in) 
