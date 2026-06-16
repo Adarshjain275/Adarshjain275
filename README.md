@@ -1,7 +1,7 @@
 ## Hey there, I'm Adarsh Jain
 
-- Engineerig Undergrad with majors in Electronics @NSUT'28.
-- Interested in software engineering, machine learning, and .
+- Engineerig Undergrad with majors in Electronics @NSUT'27.
+- Interested in software engineering, machine learning, and development.
 
 ### Skills
 **Languages**: C++, Python, Java, JavaScript, MATLAB  
