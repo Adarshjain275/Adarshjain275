@@ -5,7 +5,7 @@
 
 ### Skills
 **Languages**: C++, Python, Java, JavaScript, MATLAB  
-**Frameworks & Libraries**: React.js, Redux Toolkit, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib 
+**Frameworks & Libraries**: React.js, Redux Toolkit, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib
 **Tools**: Git, GitHub, Linux, VS Code, Jupyter Notebook  
 **Concepts**: Data Structures & Algorithms, OOP, Machine Learning, Computer Networks
 
